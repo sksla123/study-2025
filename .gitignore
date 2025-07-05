@@ -419,3 +419,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.tomlㄴ
+
+# Competitive Programming Helper
+.cph/
