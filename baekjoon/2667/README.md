@@ -2,7 +2,9 @@
 문제 링크 https://www.acmicpc.net/problem/2667
 
 ## 알고리즘
-dfs
+1. 입력 중 현재 탐색되지 않은 단지의 house 하나를 선택한다.
+2. 해당 house 기준으로 연결된 모든 house 완전 탐색(dfs)
+3. 완전 탐색 횟수 및, 탐색된 결과(house 개수)를 출력
 
 ## 시행착오
 1. 그냥 vector 하나만 있어도 될 거 같은데, 왜 unordered_set을 썼는지 모르겟음. dfs 짤 때즘 생각나서, 그냥 냅둠
