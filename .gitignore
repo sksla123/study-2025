@@ -422,3 +422,6 @@ __marimo__/
 
 # Competitive Programming Helper
 .cph/
+
+# vscode가 왜빠져있을까 ㅎㅎ
+.vscode/
